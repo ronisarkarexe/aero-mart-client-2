@@ -1,0 +1,29 @@
+.statusCode{
+   position: absolute;
+   top: 0;
+   right: 0;
+   padding: 16px 10px;
+}
+
+.pendingColor{
+   background-color: rgba(250, 116, 101, 0.529);
+   padding: 7px 16px;
+   color: rgb(124, 0, 0);
+   border-radius: 3px;
+}
+.onProcessColor{
+   background-color: rgba(246, 246, 83, 0.356);
+   padding: 7px 16px;
+   color: rgb(126, 120, 2);
+   border-radius: 3px;
+}
+.doneColor{
+   background-color: rgba(83, 246, 146, 0.529);
+   padding: 7px 16px;
+   color: rgb(0, 124, 0);
+   border-radius: 3px;
+}
+.orderImage img{
+   width: 100%;
+   height: 180px;
+}

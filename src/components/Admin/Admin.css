@@ -1,0 +1,22 @@
+.adminSlider{
+   background-color: #fce7f3;
+   height: 100vh;
+}
+.sectionLink{
+   color: #be185d;
+}
+
+.sectionLink:hover{
+   color: #be185d;
+}
+
+.sectionLink:focus{
+   color: #f472b6
+}
+.headingTitle{
+   border-bottom: 1px solid #be185d;
+   color: #be185d;
+}
+.ad{
+   scroll-behavior: smooth;
+}
