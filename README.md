@@ -1,7 +1,7 @@
 # Aero Mart Online Car Selling Project
 The main objective of this Project is to build a quality interface for users.
 
-Admin can create and store product records. This application also provides facilities for a payment gateway system. This application is helpful to the department of the organization which maintains data of information on vehicles. We have created Client Panel and Admin Panel so the admin can manage all the data of the User. 
+Admin can create and store product records. This application also provides facilities for a payment gateway system(not implemented). This application is helpful to the department of the organization which maintains data of information on vehicles. We have created Client Panel and Admin Panel so the admin can manage all the data of the User. 
 
 Admin can create change, update, and delete vehicle Basically this application mainly focuses on all the user who buys a new vehicle.
 
@@ -45,6 +45,13 @@ Admin can create change, update, and delete vehicle Basically this application m
 5. Make user data management more effective.
 6. Features are easy to use for users.
 7. Make easy login authentication with google.
+
+## List of the new feature will be added
+1. Payment gateway with stripe.
+2. Users can update their own profile information.
+3. Pagination.
+4. Searching.
+5. Best sell product.
 
 
 ## How to Run
