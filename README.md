@@ -70,7 +70,7 @@ $ git clone https://github.com/ronisarkarexe/aero-mart-server.git
 
 ### Install Heroku on your machine to deploy your API (Application program interface).
 
-- Now build your app for production
+- Now build your website for production
 - Run `npm run build`
 
 ### Host your site on Firebase
