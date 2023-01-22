@@ -11,3 +11,5 @@
 Aero Mart is an online platform for selling cars. 
 
 The project’s tech stack includes a React.js frontend and a back-end server in Node. A MongoDB database is used to store the data and also uses Firebase for authentication.
+
+Roni Sarkar
